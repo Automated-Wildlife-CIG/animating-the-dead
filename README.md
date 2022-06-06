@@ -3,9 +3,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6603940.svg)](https://doi.org/10.5281/zenodo.6603940)
 
 
-[```Citation```](#Citation) / [```Data Definitions```](#data-definitions) / [```Included Resources```](#included-resources) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
-
-
 ### Description
 This folder contains all relevant information//methdology for the creation of synthetic training data using preserved herpteofauna specimen.
 
@@ -17,6 +14,8 @@ NOTE - It is highly recommended that one first watches/reads the presentation pr
 How to cite this repository
  
 ### Data Description
+
+![alt text](https://calphotos.berkeley.edu/imgs/128x192/0000_0000/0321/2508.jpeg)
 
 Programs Used + Versioning:
 
