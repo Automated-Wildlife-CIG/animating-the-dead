@@ -13,3 +13,8 @@ This folder contains a examples/loose directions for creating a JSONL file from 
   _openpyxl_
   
  **If you are unfamiliar with how to download packages, the usual command is "pip install _packagename_"**
+ 
+ **Additionally, if you are unfamiliar with how to set-up a python enviornment, we've provided a link to releavant documentation below.**
+ 
+     ---> https://docs.python.org/3/library/venv.html
+     
